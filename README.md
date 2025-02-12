@@ -4,9 +4,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gabesanjose23/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/gabesanjose23/install-config)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gabesanjose23/configure-ad)
+- <b>WireShark</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabesanjose23/azure-network-protocols)
 
 <h2>Connect with me:</h2>
