@@ -8,6 +8,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gabesanjose23/configure-ad)
 - <b>WireShark</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabesanjose23/azure-network-protocols)
+- <b>Vulnerability Management </b>
+  - [Vulnerability Management Program Implementation](https://github.com/gabesanjose23/vulnerability-management-program/tree/main)
 
 <h2>Connect with me:</h2>
 
