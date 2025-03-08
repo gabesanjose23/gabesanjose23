@@ -10,6 +10,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabesanjose23/azure-network-protocols)
 - <b>Vulnerability Management </b>
   - [Vulnerability Management Program Implementation](https://github.com/gabesanjose23/vulnerability-management-program/tree/main)
+- <b>Threat Hunting</b>
+  - [Threat Hunting Scenario Tor](https://github.com/gabesanjose23/threat-hunting-scenario-tor)
 
 <h2>Connect with me:</h2>
 
