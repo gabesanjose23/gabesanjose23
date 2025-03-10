@@ -12,6 +12,7 @@
   - [Vulnerability Management Program Implementation](https://github.com/gabesanjose23/vulnerability-management-program/tree/main)
 - <b>Threat Hunting</b>
   - [Threat Hunting Scenario Tor](https://github.com/gabesanjose23/threat-hunting-scenario-tor)
+  - [Devices Exposed to the Internet Scenario](https://github.com/gabesanjose23/Devices-Exposed-to-the-Internet)
 
 <h2>Connect with me:</h2>
 
