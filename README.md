@@ -14,6 +14,7 @@
   - [Threat Hunting Scenario Tor](https://github.com/gabesanjose23/threat-hunting-scenario-tor)
   - [Devices Exposed to the Internet Scenario](https://github.com/gabesanjose23/Devices-Exposed-to-the-Internet)
   - [Sudden Network Slowdowns Scenario](https://github.com/gabesanjose23/Sudden-Network-Slowdowns)
+  - [Suspected Data Exfiltration Employee Scenario](https://github.com/gabesanjose23/Suspected-Data-Exfiltration-Employee)
 
 <h2>Connect with me:</h2>
 
