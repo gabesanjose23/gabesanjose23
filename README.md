@@ -15,6 +15,8 @@
   - [Devices Exposed to the Internet Scenario](https://github.com/gabesanjose23/Devices-Exposed-to-the-Internet)
   - [Sudden Network Slowdowns Scenario](https://github.com/gabesanjose23/Sudden-Network-Slowdowns)
   - [Suspected Data Exfiltration Employee Scenario](https://github.com/gabesanjose23/Suspected-Data-Exfiltration-Employee)
+- <b>  Incident Response in Sentinel </b>
+  - [Virtual Machine Brute Force Detection Scenario](https://github.com/gabesanjose23/Virtual-Machine-Brute-Force-Detection)
 
 <h2>Connect with me:</h2>
 
