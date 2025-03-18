@@ -17,6 +17,7 @@
   - [Suspected Data Exfiltration Employee Scenario](https://github.com/gabesanjose23/Suspected-Data-Exfiltration-Employee)
 - <b>  Incident Response in Sentinel </b>
   - [Virtual Machine Brute Force Detection Scenario](https://github.com/gabesanjose23/Virtual-Machine-Brute-Force-Detection)
+  - [PowerShell Suspicious Web Request Scenario](https://github.com/gabesanjose23/-PowerShell-Suspicious-Web-Request)
 
 <h2>Connect with me:</h2>
 
