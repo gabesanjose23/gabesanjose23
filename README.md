@@ -18,6 +18,7 @@
 - <b>  Incident Response in Sentinel </b>
   - [Virtual Machine Brute Force Detection Scenario](https://github.com/gabesanjose23/Virtual-Machine-Brute-Force-Detection)
   - [PowerShell Suspicious Web Request Scenario](https://github.com/gabesanjose23/-PowerShell-Suspicious-Web-Request)
+  - [Potential Impossible Travel Scenario](https://github.com/gabesanjose23/Potential-Impossible-Travel)
 
 <h2>Connect with me:</h2>
 
